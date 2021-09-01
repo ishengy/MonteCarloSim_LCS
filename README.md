@@ -4,5 +4,3 @@
 - Monte Carlo Simulation
 - Non-Parametric Bootstrapping
 - Kernel Density Estimation
-
-Currently In-Dev
